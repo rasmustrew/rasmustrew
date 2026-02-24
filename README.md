@@ -1,16 +1,20 @@
-## Hi there 👋
+# Rasmus Thorsøe
 
-<!--
-**rasmustrew/rasmustrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer with a background in systems development and a strong focus on rendering and graphics programming.
 
-Here are some ideas to get you started:
+I’m interested in rendering architecture and performance, and in understanding the impact of low-level systems on the final render. Most of my recent work focuses on building small rendering systems and exploring explicit graphics APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+**cpp-opengl-rendering**  
+A C++ OpenGL renderer with reusable buffer and shader abstractions, camera transforms, and runtime debug views (normals, depth, lighting). Focused on structure and observability rather than feature breadth.
+
+**rust-wgpu-rendering**  
+An earlier renderer experiment using Rust and wgpu, exploring explicit command encoding and GPU resource ownership models inspired by Vulkan-style APIs.
+
+**P2P Uno – Anti-Cheat**  
+A peer-to-peer terminal-based Uno implementation with a protocol designed to detect rule violations without a trusted authority. Built to explore distributed fairness and independent state validation.
+
+---
+
+Background includes production C++ work in real-time systems, performance and memory debugging, and distributed protocol design.
