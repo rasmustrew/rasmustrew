@@ -2,7 +2,7 @@
 
 Software engineer with a background in systems development and a strong focus on rendering and graphics programming.
 
-I’m interested in rendering architecture and performance, and in understanding the impact of low-level systems on the final render. Most of my recent work focuses on building small rendering systems and exploring explicit graphics APIs.
+I’m interested in rendering architecture and performance, and in understanding the impact of low-level systems on the final render.
 
 ## Projects
 
@@ -15,6 +15,3 @@ An earlier renderer experiment using Rust and wgpu, exploring explicit command e
 **P2P Uno – Anti-Cheat**  
 A peer-to-peer terminal-based Uno implementation with a protocol designed to detect rule violations without a trusted authority. Built to explore distributed fairness and independent state validation.
 
----
-
-Background includes production C++ work in real-time systems, performance and memory debugging, and distributed protocol design.
